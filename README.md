@@ -1,7 +1,8 @@
 # CreateScriptDeface
 
 # Install
-``
+```
+
 pkg install git
 
 pkg install python2
@@ -13,4 +14,5 @@ git clone https://github.com/Senitopeng/CreateScriptDeface.git
 cd CreateScriptDeface
 
 python2 script.py
-``
+
+```
